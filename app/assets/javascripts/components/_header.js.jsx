@@ -1,5 +1,5 @@
 class Header extends React.Component {
-	render () {
+	render() {
 		return (
 			<div className="col-md-12">
 				<h1>Header</h1>
